@@ -4,7 +4,9 @@
 
 Шаблон для Zabbix (domain-expiration-template.xml)
 
+
 Спасибо:
+
 https://serveradmin.ru/monitoring-vremeni-delegirovaniya-domena-v-zabbix/
 
 https://bitbucket.org/tzeman/zabbix-scripts/src/08238959d9fc/scripts/domain-check?fileviewer=file-view-default
